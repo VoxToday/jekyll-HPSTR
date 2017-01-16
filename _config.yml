@@ -19,7 +19,7 @@ url: http://Vox.Today
 # See the example
 menu:
   - title: '@Vox Today'
-    url: '/'
+    url: '/about/'
   - title: 'Happening Now!'
     url: '/CurrentEvents/'
   - title: 'Topics'
@@ -88,7 +88,16 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+# customizing kramdown markdown settings to GitHub flavor
+kramdown:
+    input:  GFM
+    gfm_quirks: [paragraph_end]
+
+## TODO: test hypothesis
+# Not exactly sure about this line
+# I believe it set's permalink settings to start with the setting
+# so permalink: /coolpage/
+# would be: /categories[category of post]/title[of post]/coolpage
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
