@@ -7,9 +7,9 @@ reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/logo.png # logo visible in the topbar
 excerpt_separator: <!--more-->
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-
+## using http://localhost:4000 doesn't seem to affect local testing
+#url: http://localhost:4000
 url: http://Vox.Today
 
 # draw your top menu here
@@ -18,8 +18,6 @@ url: http://Vox.Today
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: '@Vox Today'
-    url: '/about/'
   - title: 'Happening Now!'
     url: '/CurrentEvents/'
   - title: 'Topics'
@@ -39,7 +37,12 @@ menu:
     url: '/tags'
   - title: 'Categories'
     url: '/categories'
+## TODO: Change to "top categories" | until then use categories with restraint
+# show only top n-categories so list doesn't grow past n = 4 - 8
+# See line 21 of /_includes/header.html
     type: 'categories'
+  - title: '@Vox Today'
+    url: '/about/'
 
 # Owner/author information
 owner:

@@ -13,9 +13,9 @@ share: true
 
 Task list?  
 
-- [ ] first
-- [ ] Second
-- [ ] thirds
+- [x] first    
+- [x] Second    
+- [ ] thirds    
 
  - [ ] Who we are  
  - [ ] What we do
