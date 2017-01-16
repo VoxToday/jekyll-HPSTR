@@ -12,10 +12,9 @@ share: true
 **Need to add information to this page such as:**       
 
 Task list?  
-
-- [x] first    
-- [x] Second    
-- [ ] thirds    
+ - [x] first    
+ - [x] Second    
+ - [ ] thirds    
 
  - [ ] Who we are  
  - [ ] What we do

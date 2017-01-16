@@ -6,3 +6,5 @@ gem 'github-pages', '109', group: :jekyll_plugins
 gem 'octopress'
 gem 'jekyll-paginate'
 gem 'neo-hpstr-jekyll-theme'
+# Github Authentication gem https://github.com/jekyll/github-metadata
+gem 'netrc'
