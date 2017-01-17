@@ -12,19 +12,20 @@ share: true
 **Need to add information to this page such as:**       
  - [ ] Who we are  
  - [ ] What we do  
-     * Report on the most essential news to your world  
-     * Emphasis on collecting (_curating is a trendy pop word in tech now_) news, current   events and information our users already believe to be true  
-     * Support & Strengthen internal bias  
+     - Report on the most essential news to your world  
+     - Emphasis on collecting (_curating is a trendy pop word in tech now_) news, current   events and information our users already believe to be true  
+     - Support & Strengthen internal bias  
  - [ ] Mission statement  
-     * Potential Mission Statements (Any combination of):  
-         * Creating the news you want  
-         * Creating the news you want to read  
-         * Curating the news you want to read  
-         * Showing you the world you believe  
-         * Showing you the world you know  
+     - Potential Mission Statements (Any combination of):  
+         - Creating the news you want  
+         - Creating the news you want to read  
+         - Curating the news you want to read  
+         - Showing you the world you believe  
+         - Showing you the world you know  
  - [ ] Create icons / favicon for all mobile devices  
      * See /_includes/icons.html  
  - [x] Create 404 page  
+ - [x] Google Analytics
  - [ ] Figure out how to create a task list with GFM (GitHub flavored Markdown)  
      - Task list?  
       - [x] first    
