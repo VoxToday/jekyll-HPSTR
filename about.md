@@ -10,12 +10,6 @@ share: true
 
 ### TODO ###  
 **Need to add information to this page such as:**       
-
-Task list?  
- - [x] first    
- - [x] Second    
- - [ ] thirds    
-
  - [ ] Who we are  
  - [ ] What we do
      * Report on the most essential news to your world
@@ -28,7 +22,14 @@ Task list?
          * Curating the news you want to read
          * Showing you the world you believe
          * Showing you the world you know
- - [ ] ...?  
+ - [ ] Create icons / favicon for all mobile devices
+     * See /_includes/icons.html
+ - [ ] Create 404 page
+ - [ ] Figure out how to create a task list with GFM (GitHub flavored Markdown)
+     - Task list?  
+      - [x] first    
+      - [x] Second    
+      - [ ] thirds    
 
 >Creating the news you want  
 > Showing you the world you believe  
