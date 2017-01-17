@@ -8,3 +8,5 @@ gem 'jekyll-paginate'
 gem 'neo-hpstr-jekyll-theme'
 # Github Authentication gem https://github.com/jekyll/github-metadata
 gem 'netrc'
+gem 'jekyll-sitemap'
+gem 'jekyll-seo-tag'

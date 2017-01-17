@@ -124,6 +124,7 @@ exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile
 gems:
     - jekyll-sitemap
     - jekyll-paginate
+    - jekyll-seo-tag
 
 # GitHub pages does not accept this theme
 #theme: neo-hpstr-jekyll-theme

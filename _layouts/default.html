@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <html lang="en-us">
+<head>
   {% include head.html %}
+</head>
   <body>
-    <header></header>
+      {% include browser-upgrade.html %}
+      {% include header.html %}
+    <header>
+        {% include head.html %}
+        {% seo %}
+    </header>
       <section>
         {{ content }}
       </section>
+      # include google analytics script from analytics.html file
       {% include analytics.html %}
   </body>
-<footer></footer>
+<footer>
+    <div class="footer-wrapper">
+      <footer role="contentinfo">
+        {% include footer.html %}
+      </footer>
+    </div><!-- /.footer-wrapper -->
+</footer>
 </html>
