@@ -22,6 +22,7 @@ share: true
          - Curating the news you want to read  
          - Showing you the world you believe  
          - Showing you the world you know  
+ - [ ] Put Contact info / email on About Page / Or multiple / all pages?
  - [ ] Create icons / favicon for all mobile devices  
      * See /_includes/icons.html  
  - [x] Create 404 page  
