@@ -26,8 +26,8 @@ share: true
  - [ ] Create icons / favicon for all mobile devices  
      - See /_includes/icons.html  
  - [ ] Author page
-     - fix social-buttons
-     - change about Author to about Vox (ask matt if we want individual authors or unique psuedonym as authors)
+     - [x] fix social-buttons
+     - [ ] change about Author to about Vox (ask matt if we want individual authors or unique psuedonym as authors)
  - [x] Create 404 page  
  - [x] Google Analytics
  - [ ] Figure out how to create a task list with GFM (GitHub flavored Markdown)  
