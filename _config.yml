@@ -62,7 +62,7 @@ owner:
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter:
+twitter: Vox_Today
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
@@ -72,9 +72,10 @@ social:
     url: "https://www.facebook.com/VoxToday"
   - title: "twitter"
     url: "https://twitter.com/Vox_Today"
-## TODO Get a YouTube Account created, active and setup here
-  # - title: "youtube"
-  #   url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+  - title: "pinterest"
+    url: "https://www.tumblr.com/blog/vox-today"
+  - title: "youtube"
+    url: "https://www.youtube.com/channel/UChwmIJFDmgHFZEqSRFXwtnQ"
 
 # Background image to be tiled on all pages
 background:
